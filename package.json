@@ -1,0 +1,14 @@
+{
+  "name": "certbot-verif",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/waterlooworksV2/certbot-verif",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0",
+    "https": "^1.0.0"
+  }
+}
