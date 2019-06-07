@@ -109,4 +109,5 @@ ehthumbs.db
 Thumbs.db
 .env
 .idea/*
-
+.well-known/acme-challenge/*
+!.well-known/acme-challenge/empty/
